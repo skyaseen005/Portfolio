@@ -38,6 +38,14 @@ const projects: Project[] = [
     url: "https://nexus-rag-ten.vercel.app/",
     year: "2025",
   },
+  {
+    title: "Herbify",
+    tagline: "A mobile app that uses AI to identify plants and provide care tips. Simply snap a photo of a plant, and Herbify will analyze it to give you detailed information on how to nurture it.",
+    tags: ["Android", "AI", "JetPack Compose", "TensorFlow Lite", "Kotlin", "Firebase"],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtS_D9evxsvy8TvPvqp-tjOioJwt-38eW_Q&s",
+    url: "https://drive.google.com/file/d/14ousHTOugFaEzPNISnpsVlxCXWaB_jby/view?usp=sharing",
+    year: "2025",
+  },
 ];
 
 const ProjectCard = ({ project, delay }: { project: Project; delay: number }) => {
