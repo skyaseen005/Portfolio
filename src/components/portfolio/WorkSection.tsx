@@ -58,7 +58,7 @@ const projects: Project[] = [
 
   url: "https://git-hub-developer-dashboard.vercel.app/",
 
-  year: "2025",git status
+  year: "2025",
 
 },
 
