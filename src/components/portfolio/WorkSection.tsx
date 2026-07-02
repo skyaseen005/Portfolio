@@ -46,6 +46,22 @@ const projects: Project[] = [
     url: "https://drive.google.com/file/d/14ousHTOugFaEzPNISnpsVlxCXWaB_jby/view?usp=sharing",
     year: "2025",
   },
+  {
+
+  title: "GitHub Developer Dashboard",
+
+  tagline: "A responsive developer dashboard that visualizes GitHub profile statistics, repositories, contribution activity, and coding insights using the GitHub API. It helps developers monitor their projects and showcase their GitHub presence through an interactive interface.",
+
+  tags: ["React", "JavaScript", "GitHub API", "HTML", "CSS", "REST API"],
+
+  image: "https://vercel.com/skyaseen005s-projects/git-hub-developer-dashboard",
+
+  url: "https://vercel.com/skyaseen005s-projects/git-hub-developer-dashboard",
+
+  year: "2025",
+
+},
+
 ];
 
 const ProjectCard = ({ project, delay }: { project: Project; delay: number }) => {
