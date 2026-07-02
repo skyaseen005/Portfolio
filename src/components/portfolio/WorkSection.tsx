@@ -54,11 +54,11 @@ const projects: Project[] = [
 
   tags: ["React", "JavaScript", "GitHub API", "HTML", "CSS", "REST API"],
 
-  image: "https://vercel.com/skyaseen005s-projects/git-hub-developer-dashboard",
+  image: "https://repository-images.githubusercontent.com/129887072/bbab7780-bd88-11ea-9601-85e92d4a6afd",
 
-  url: "https://vercel.com/skyaseen005s-projects/git-hub-developer-dashboard",
+  url: "https://git-hub-developer-dashboard.vercel.app/",
 
-  year: "2025",
+  year: "2025",git status
 
 },
 
